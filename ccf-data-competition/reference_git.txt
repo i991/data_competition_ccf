@@ -1,0 +1,4 @@
+https://github.com/ChenglongChen/tensorflow-DeepFM
+
+
+https://github.com/princewen/tensorflow_practice/blob/master/recommendation/Basic-DeepFM-model/DeepFM-StepByStep.ipynb
